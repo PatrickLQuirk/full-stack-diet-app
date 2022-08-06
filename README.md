@@ -8,6 +8,8 @@ AS A person working with a personal trainer to adopt a new diet
 I WANT an application that allows me to select my diet
 SO THAT I can view a list of acceptable foods to eat according to my diet
 
+![Website](full-stack-diet.png)
+
 ## Built With
 JavaScript
 Handlebars
